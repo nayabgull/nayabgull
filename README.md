@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nayab Gull 👋
 
-<!--
-**nayabgull/nayabgull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer and AI automation specialist helping businesses grow with
+custom websites, GoHighLevel setups, and AI agents.
 
-Here are some ideas to get you started:
+## What I do
+- 🌐 Web development: Next.js, React, Node.js, Laravel
+- 🤖 AI automation and AI voice agents
+- ⚙️ GoHighLevel CRM and workflow automation
+- 🚀 SaaS and MVP development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work with me
+- 🔗 Website: [nayabgull.com](https://nayabgull.com)
+- 📅 Free strategy call: [cal.com/nayab-gull](https://cal.com/nayab-gull)
+
+## Tech stack
+`Next.js` `React` `Node.js` `TypeScript` `Tailwind CSS` `Laravel` `PostgreSQL`
